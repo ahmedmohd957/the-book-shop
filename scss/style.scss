@@ -1,0 +1,28 @@
+@import 'google-fonts';
+@import 'variable-overrides';
+@import 'bootstrap/scss/bootstrap';
+@import 'sticky-footer';
+main .row:first-of-type {
+    margin-top: 80px;
+}
+
+.card {
+    cursor: pointer;
+}
+
+.book-card-img {
+    background-color: lightgray;
+    height: 160px;
+    object-fit: contain;
+}
+
+.book-details-img {
+    height: 100%;
+}
+
+.logo {
+    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+    margin-right: 40px;
+    margin-top: -5px;
+}

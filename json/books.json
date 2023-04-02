@@ -1,0 +1,181 @@
+[{
+        "id": 1,
+        "title": "Responsive Design with Bootstrap",
+        "author": "John Doe",
+        "description": "Bootstrap is a popular HTML, CSS and JavaScript framework used by developers to build responsive, mobile first websites, meaning that the websites can adapt to different screen sizes and devices. This is important because people use smartphones most of the times to access websites, and a website that is can not adapt to multiple devices can be difficult to use. Using the Bootstrap framework, developers have access to a vast selection of components and reusable codes for navbars, buttons, forms, cards and many others. This framework helps developers save time because developers don’t have to build and customize websites from scratch, they can use Bootstrap framework pre-made components that already have been optimized and tested for multiple devices and screen sizes, this will save developers a lot of time.",
+        "category": "CSS",
+        "price": 249,
+        "imageUrl": "https://m.media-amazon.com/images/I/41FFydFUgxS._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+    },
+    {
+        "id": 2,
+        "title": "HTML - An Introduction",
+        "author": "John Doe",
+        "description": "",
+        "category": "HTML",
+        "price": 199,
+        "imageUrl": "https://m.media-amazon.com/images/I/71TSuC-K-mL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 3,
+        "title": "CSS - An Introduction",
+        "author": "John Doe",
+        "description": "",
+        "category": "CSS",
+        "price": 199,
+        "imageUrl": "https://m.media-amazon.com/images/I/61xkhhBJglL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 4,
+        "title": "JavaScript - An Introduction",
+        "author": "John Doe",
+        "description": "",
+        "category": "JAVASCRIPT",
+        "price": 249,
+        "imageUrl": "https://m.media-amazon.com/images/I/41wLryW3xKL._AC_UY436_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 5,
+        "title": "User Experience Design",
+        "author": "Satyam Kantamneni",
+        "description": "Lorem ipsum",
+        "category": "UX",
+        "price": 299,
+        "imageUrl": "https://m.media-amazon.com/images/I/41My7OHIQWL._SX398_BO1,204,203,200_.jpg"
+    },
+    {
+        "id": 6,
+        "title": "HTML5 Pocket Reference",
+        "author": "Jennifer Robbins",
+        "description": "Lorem ipsum",
+        "category": "HTML",
+        "price": 279,
+        "imageUrl": "https://m.media-amazon.com/images/I/41mJiRghcdL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+    },
+    {
+        "id": 7,
+        "title": "CSS Pocket Reference",
+        "author": "Eric Meyer",
+        "description": "Lorem ipsum",
+        "category": "CSS",
+        "price": 329,
+        "imageUrl": "https://m.media-amazon.com/images/I/51neKLqqFOL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+    },
+    {
+        "id": 8,
+        "title": "A Smarter Way to Learn JavaScript",
+        "author": "Mark Myers",
+        "description": "Lorem ipsum",
+        "category": "JAVASCRIPT",
+        "price": 279,
+        "imageUrl": "https://m.media-amazon.com/images/I/41SuGbUqZTL._SX348_BO1,204,203,200_.jpg"
+    },
+    {
+        "id": 9,
+        "title": "The Design of Everyday Things",
+        "author": "Don Norman",
+        "description": "Lorem ipsum",
+        "category": "UX",
+        "price": 120,
+        "imageUrl": "https://m.media-amazon.com/images/I/51MzbjxE7bL._SX376_BO1,204,203,200_.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Hooked",
+        "author": "Nir Eyal",
+        "description": "Lorem ipsum",
+        "category": "UX",
+        "price": 110,
+        "imageUrl": "https://m.media-amazon.com/images/I/51o-DT4Z33L.jpg"
+    },
+    {
+        "id": 11,
+        "title": "HTML in Easy Steps",
+        "author": "Mike McGrath",
+        "description": "Lorem ipsum",
+        "category": "HTML",
+        "price": 90,
+        "imageUrl": "https://m.media-amazon.com/images/I/51Y9yDoKNCL._SX408_BO1,204,203,200_.jpg"
+    },
+    {
+        "id": 12,
+        "title": "HTML5: Up and Running",
+        "author": "Mark Pilgrim",
+        "description": "Lorem ipsum",
+        "category": "HTML",
+        "price": 100,
+        "imageUrl": "https://m.media-amazon.com/images/I/51yj53xlAdL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+    },
+    {
+        "id": 13,
+        "title": "CSS in Easy Steps",
+        "author": "Mike McGrath",
+        "description": "Lorem ipsum",
+        "category": "CSS",
+        "price": 80,
+        "imageUrl": "https://m.media-amazon.com/images/I/41170IYAWYL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+    },
+    {
+        "id": 14,
+        "title": "CSS Master",
+        "author": "Tiffany Brown",
+        "description": "Lorem ipsum",
+        "category": "CSS",
+        "price": 95,
+        "imageUrl": "https://m.media-amazon.com/images/I/41mhcmJ1S0L._SX398_BO1,204,203,200_.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Head First JavaScript Programming",
+        "author": "Elisabeth Robson",
+        "description": "Lorem ipsum",
+        "category": "JAVASCRIPT",
+        "price": 130,
+        "imageUrl": "https://m.media-amazon.com/images/I/519dx5KHv-L._SX430_BO1,204,203,200_.jpg"
+    },
+    {
+        "id": 16,
+        "title": "Don’t Make Me Think",
+        "author": "Steve Krug",
+        "description": "Lorem ipsum",
+        "category": "UX",
+        "price": 120,
+        "imageUrl": "https://m.media-amazon.com/images/I/51WS36aA2BL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+    },
+    {
+        "id": 17,
+        "title": "The User Experience Team of One",
+        "author": "Leah Buley",
+        "description": "Lorem ipsum",
+        "category": "UX",
+        "price": 140,
+        "imageUrl": "https://m.media-amazon.com/images/I/51kmwVZ0y7L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+    },
+    {
+        "id": 18,
+        "title": "HTML5 for Masterminds",
+        "author": "J.D Gauchat",
+        "description": "Lorem ipsum",
+        "category": "HTML",
+        "price": 110,
+        "imageUrl": "https://m.media-amazon.com/images/I/51rXMDQSGuL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+    },
+    {
+        "id": 19,
+        "title": "Eloquent JavaScript",
+        "author": "Marijn Haverbeke",
+        "description": "Lorem ipsum",
+        "category": "JAVASCRIPT",
+        "price": 130,
+        "imageUrl": "https://m.media-amazon.com/images/I/51InjRPaF7L._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+    },
+    {
+        "id": 20,
+        "title": "JavaScript: The Definitive Guide",
+        "author": "David Flanagan",
+        "description": "Lorem ipsum",
+        "category": "JAVASCRIPT",
+        "price": 40,
+        "imageUrl": "https://m.media-amazon.com/images/I/510JuXSc2HL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"
+    }
+]
