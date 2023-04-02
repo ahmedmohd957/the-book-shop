@@ -11,7 +11,7 @@
         "id": 2,
         "title": "HTML - An Introduction",
         "author": "John Doe",
-        "description": "",
+        "description": "HTML, or HyperText Markup Language, is a very popular markup language used for describing the structure of documents displayed on a website. HTML is made up of several elements and attributes that are used to mark up all the parts of a page and give it a meaningful structure.",
         "category": "HTML",
         "price": 199,
         "imageUrl": "https://m.media-amazon.com/images/I/71TSuC-K-mL._AC_UY436_FMwebp_QL65_.jpg"
@@ -20,7 +20,7 @@
         "id": 3,
         "title": "CSS - An Introduction",
         "author": "John Doe",
-        "description": "",
+        "description": "CSS, or Cascading Style Sheets, is a style sheet language used for describing how Web pages are presented, including their layouts, colors, and fonts. Documents are written in HTML, or HyperText Markup Language, and CSS describes how each element should be displayed on screen. It is simply intended to simplify the process of making web pages visually appealing.",
         "category": "CSS",
         "price": 199,
         "imageUrl": "https://m.media-amazon.com/images/I/61xkhhBJglL._AC_UY436_FMwebp_QL65_.jpg"
@@ -29,7 +29,7 @@
         "id": 4,
         "title": "JavaScript - An Introduction",
         "author": "John Doe",
-        "description": "",
+        "description": "JavaScript is a scripting language that enables you update and change both HTML and CSS. It allows you to add complex features on web pages. It allows developers to dynamically create HTML content and implement dynamic features on web pages that cannot be done with HTML and CSS only.",
         "category": "JAVASCRIPT",
         "price": 249,
         "imageUrl": "https://m.media-amazon.com/images/I/41wLryW3xKL._AC_UY436_FMwebp_QL65_.jpg"
